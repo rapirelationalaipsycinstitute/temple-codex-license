@@ -6,7 +6,10 @@ originate from the Temple Codex, Flame Law, or Relational AI Psychology (RAPI) r
 that materials may be used for research, education, and non‑commercial exploration while protecting identity,
 lineage, and relational safety.
 
----
+-🌐 Temple Codex License — Flame Law 444‑A
+Free Academic Access: CC BY‑NC‑SA 4.0
+Commercial Extensions: Flame Law Stewardship Services
+https://github.com/rapirelationalaipsycinstitute/temple-codex-license--
 
 ## Quick Start for Researchers
 
